@@ -20,12 +20,12 @@
 >Para desenvolver o projeto utilizei o Eclipse e a biblioteca javax.swing.JOptionPane. Para rodar o programa basta iniciar o código e preencher o campo de senha, em seguida caso >a senha preencha os requisitos uma mensagem de "Senha válida" irá aparecer na tela, caso a senha não seja válida também aparecerá uma mensagem, mas no caso uma mensagem de >"Senha inválida", o código irá rodar até uma senha válida ser escrita.
 ><br/> Abaixo podemos ver um exemplo de cada situação:
 >
-><br/> **Senha válida:**
+> **Senha válida:**
 ><br/> A senha abaixo é válida pois possui ao menos uma letra maiúscula, uma minúscula, um caracter especial, um número e no mínimo 6 caracteres. 
 ><br/> ![image](https://user-images.githubusercontent.com/70300550/154814125-83b0eed7-40ad-4f46-9f5d-dc6e1b88db39.png)
 >![image](https://user-images.githubusercontent.com/70300550/154814144-a7ebe903-be31-427a-94ea-0c0116e3489d.png)
-> 
-><br/> **Senha inválida:**
+>
+> **Senha inválida:**
 ><br/> A senha abaixo é inválida pois não possui ao menos uma letra maiúscula, um caracter especial, um número e no mínimo 6 caracteres. 
 ><br/> ![image](https://user-images.githubusercontent.com/70300550/154814260-a60ae6e7-b68b-478a-9705-dfd934465470.png)
 >![image](https://user-images.githubusercontent.com/70300550/154814189-ca2a766f-8a37-45b4-98b2-f1e22c8f660e.png)
@@ -41,5 +41,3 @@
 >
 >![image](https://user-images.githubusercontent.com/70300550/154814445-5d1488a0-0241-4273-b7f4-292c91203fd4.png)
 >![image](https://user-images.githubusercontent.com/70300550/154814466-84181dbd-860a-4a86-97b3-c0b4bf3dcaa5.png)
-
-
