@@ -6,7 +6,7 @@ public class Asteriscos {
 
 		
 		int n = Integer.parseInt(JOptionPane.showInputDialog("Escreva um número: ")); //Solicita um número para criar a escada, e salva na variavel n
-		for (int i = 0; i < n; i++) { //Faz o laço de repeticao pela quantidade de vezes informada pelo usuario (n)
+		for (int i = 0; i < n; i++) { //Faz o laço de repeticao pela quantidade de vezes informada pelo usuario (n) 
 			for (int j = n - i; j > 1; j--) { //coloca os espaços em branco de forma decrescente
 				System.out.print(" ");
 			}
