@@ -6,7 +6,7 @@
 >
 >A proposta do desafio é criar uma escada com asteriscos e espaços.
 >
->Para desenvolver o projeto utilizei o Eclipse e a biblioteca javax.swing.JOptionPane, e para rodar o código basta iniciar e preencher o campo silicitado "Escreva um número:" o >número escrito será o número de "degraus" da escada.
+>Para desenvolver o projeto utilizei a liguagem de programação Java, a IDE Eclipse e a biblioteca javax.swing.JOptionPane, e para rodar o código basta iniciar e preencher o campo silicitado "Escreva um número:" o >número escrito será o número de "degraus" da escada.
 ><br/> Em seguida aparecerá no console da IDE (preferencialemnte Eclipse) a escada criada, como podemos ver na imagem abaixo:
 >
 >![image](https://user-images.githubusercontent.com/70300550/154813835-5de5ef6f-5087-4d5d-b1a7-608cee85f6b8.png)
@@ -17,7 +17,7 @@
 >
 >A proposta do desafio é criar um código que ajude Débora a criar uma senha forte, essa senha deve preencher alguns requisitos como, ter o tamanho minímo de 6 caracteres, conter >ao menos uma letra maiúscula, uma minúscula, um caracter especial e um número.
 >
->Para desenvolver o projeto utilizei o Eclipse e a biblioteca javax.swing.JOptionPane. Para rodar o programa basta iniciar o código e preencher o campo de senha, em seguida caso >a senha preencha os requisitos uma mensagem de "Senha válida" irá aparecer na tela, caso a senha não seja válida também aparecerá uma mensagem, mas no caso uma mensagem de >"Senha inválida", o código irá rodar até uma senha válida ser escrita.
+>Para desenvolver o projeto utilizei a liguagem de programação Java, a IDE Eclipse e a biblioteca javax.swing.JOptionPane. Para rodar o programa basta iniciar o código e preencher o campo de senha, em seguida caso >a senha preencha os requisitos uma mensagem de "Senha válida" irá aparecer na tela, caso a senha não seja válida também aparecerá uma mensagem, mas no caso uma mensagem de >"Senha inválida", o código irá rodar até uma senha válida ser escrita.
 ><br/> Abaixo podemos ver um exemplo de cada situação:
 >
 > **Senha válida:**
@@ -36,7 +36,7 @@
 >
 >A proposta do desafio é criar um código que informe a quantidade de anagramas pares de determinada palavra.
 >
->Para desenvolver o projeto utilizei o Eclipse e a biblioteca javax.swing.JOptionPane, e para rodar o código basta iniciar e preencher o campo silicitado "Escreva uma palavra:" >a palavra escrita será analisada pelo código e em seguida retornará a quantidade de anagramas que a palavra possui.
+>Para desenvolver o projeto utilizei a liguagem de programação Java, a IDE Eclipse e a biblioteca javax.swing.JOptionPane, e para rodar o código basta iniciar e preencher o campo silicitado "Escreva uma palavra:" >a palavra escrita será analisada pelo código e em seguida retornará a quantidade de anagramas que a palavra possui.
 ><br/> Abaixo podemos ver um exemplo:
 >
 >![image](https://user-images.githubusercontent.com/70300550/154814445-5d1488a0-0241-4273-b7f4-292c91203fd4.png)
